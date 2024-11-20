@@ -1,6 +1,6 @@
 # cube-world-mod-loader
 
-Unofficial for cube world alpha written in rust.
+Unofficial mod loader for cube world alpha written in rust.
 
 Do not actually use this.
 
